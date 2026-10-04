@@ -39,7 +39,6 @@ apis:
   - name: Icelandic APIs
     description: "Open APIs that deliver services in or regarding Iceland"
     humanURL: http://docs.apis.is/
-    baseURL: http://docs.apis.is/
     tags:
       - Transportation
     properties:
